@@ -18,5 +18,9 @@ img.save("bruh_yes.jpg")
 
 ## Examples
 ![bruh_yes](https://github.com/Dharisd/dv_captcha/blob/main/bruh_yes.jpg?raw=true)
+### example 2 
 ![bruh_no](https://github.com/Dharisd/dv_captcha/blob/main/bruh_no.jpg?raw=true)
+### example 3
+![bruh_no](https://github.com/Dharisd/dv_captcha/blob/main/bruh.jpg?raw=true)
+
 
